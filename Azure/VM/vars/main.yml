@@ -1,0 +1,6 @@
+---
+# vars file
+resource_group: ansible-test
+vm_name: testvm
+location: eastus+
+ssh-key: ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQCvGM3njwVq7y9u8gQF5QRbV1+PN3OJ9+Pu3t8SJHx0TsUzp3M16LwNiLfCP2/ippEp/xNKVzribEgtJ/7Dw2XMFMZfYKWcMkf3f7w2HpVcDVfLiK1QEEK8KuAWrXBjuG4zEmbZ3FKjA2nJfhxRerTrozN2jQi5zLE6ojshGGaZp85GS54VtBFgS52/cYXauCzjBhlodqu8+zGeELtXh9H+nJEfzx/qnItxbUsU9MvoIzc7dqm2AaZ7Ewp/PDI+qaeu4LRpsKDeSsFlhi+aSPQG6jeqtd4i0ZfXVPXgt4kWamUrUtBOdUAon8wixTaaoCN4OyO88EniA8LIa0GNLv5J
